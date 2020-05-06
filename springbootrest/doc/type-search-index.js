@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"test","l":"sample"},{"p":"Controller","l":"samplecontroller"},{"p":"Service","l":"sampleservice"},{"p":"com.sample.springbootrest","l":"SpringbootrestApplication"}]

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.sample.springbootrest"},{"l":"Controller"},{"l":"Service"},{"l":"test"}]
